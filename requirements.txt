@@ -1,6 +1,3 @@
-streamlit == 1.24.1
-numpy == 1.24.4
-opencv-python == 4.7.0.72
-
+streamlit
 numpy
 opencv-python-headless
